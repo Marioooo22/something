@@ -1,5 +1,2 @@
 # hi
-
-awesome
-to merge
-to merge again
+everything was wrong
